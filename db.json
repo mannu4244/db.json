@@ -30,14 +30,7 @@
       { "id": 3, "userName": "MANOJ16", "isAdmin": false, "email":"b@gmail.com" },
       { "id": 3, "userName": "MANOJ17", "isAdmin": false, "email":"b@gmail.com" },
       { "id": 3, "userName": "MANOJ18", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ19", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ20", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ21", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ22", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ23", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ24", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ25", "isAdmin": false, "email":"b@gmail.com" },
-      { "id": 3, "userName": "MANOJ26", "isAdmin": false, "email":"b@gmail.com" }
+      { "id": 3, "userName": "MANOJ19", "isAdmin": false, "email":"b@gmail.com" }
     
   ],
   "passwords":[
