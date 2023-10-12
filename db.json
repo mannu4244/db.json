@@ -34,7 +34,19 @@
       { "id": 5, "projectVersion": "CSRC 2.13", "estimation": "5.5" },
       { "id": 6, "projectVersion": "SSM 2.11", "estimation": "10" },
       { "id": 7, "projectVersion": "SkillsheetManager 2.16", "estimation": "10" },
-      { "id": 8, "projectVersion": "EstimationTOol 2.16", "estimation": "8" }
+      { "id": 8, "projectVersion": "CSRC 2.18", "estimation": "45" },
+      { "id": 9, "projectVersion": "CSRC 2.19", "estimation": "12" },
+      { "id": 10, "projectVersion": "CSRC 2.20", "estimation": "1" },
+      { "id": 11, "projectVersion": "CSRC 2.21", "estimation": "24" },
+      { "id": 12, "projectVersion": "CSRC 2.15", "estimation": "7" },
+      { "id": 13, "projectVersion": "CSRC 2.16", "estimation": "7" },
+      { "id": 14, "projectVersion": "CSRC 2.16", "estimation": "8" },
+      { "id": 15, "projectVersion": "CSRC 2.16", "estimation": "8" },
+      { "id": 16, "projectVersion": "CSRC 2.16", "estimation": "7" },
+      { "id": 17, "projectVersion": "CSRC 2.16", "estimation": "8" },
+      { "id": 18, "projectVersion": "CSRC 2.16", "estimation": "8" },
+      { "id": 19, "projectVersion": "CSRC 2.16", "estimation": "8" },
+      { "id": 20, "projectVersion": "CSRC 2.16", "estimation": "8" }
   ],
 
     "pointList":[
